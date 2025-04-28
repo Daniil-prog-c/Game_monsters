@@ -42,7 +42,7 @@ public:
 	{
 		m_level += 1;
 		m_damege += 1;
-		m_helth += 10;
+		m_helth += 4;
 	}
 
 	int getLevel() { return m_level; }
